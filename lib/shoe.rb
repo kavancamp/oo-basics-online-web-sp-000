@@ -14,7 +14,7 @@ class Shoe
 
 
 
-
-
-
 end
+
+Shoe = Shoe.new
+Shoe.condition
