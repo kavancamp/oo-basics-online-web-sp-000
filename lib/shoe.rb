@@ -10,7 +10,7 @@ class Shoe
 
   def cobble
     puts "new"
-   
+
   end
 
 
