@@ -4,13 +4,15 @@ class Book
     @title = title
   end
 
-  def title
-    @title
-  end
+    def title
+      @title
+    end
 
-  def author=(author)
-  @author = author
+    def author=(author)
+      @author = author
+    end
+  def author
+    @author
   end
-
 
 end
